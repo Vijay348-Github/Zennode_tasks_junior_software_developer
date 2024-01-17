@@ -1,0 +1,127 @@
+[1]   Why do you like to join as a Software developer?
+
+I'm excited about using technology to solve complicated challenges because I have to work as a software engineer. 
+I have a lot of experience with several programming languages, and I'm excited to use what I've learned to 
+help create creative solutions. I am drawn to your organization because of its dedication to innovation, and 
+I think my flexibility and hard work will complement your objectives. I'm thrilled to have the chance to support
+innovative software solutions and work with a vibrant group of people who appreciate excellence and innovation.
+And as a software developer there is a scope of continuous learning, which makes me a good software developer 
+and consistently working on new technologies .
+
+
+
+
+
+[2]  List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+
+
+Visual Studio Code : It is a very effective and useful code editor which supports most of the languages . Because of this 
+this tool is preferred by maximum developers, which contains Git integration, intellisense and many more extensions useful for
+specific languages .It is a user friendly tool which can be understand well by the beginners also. The main thing that inspires me is
+the customisation and a good community surrounding it as they demonstarte the value of teamwork in development.
+
+Github : A platform which encourages cooperation and open-source work, not only version control. It motivates a developer to 
+monitor changes, project tracking on a global scale, and manages workflows effectively. It also helps in collaborating with other
+developers and also encourages a culture of creativity and sharing information, which I find inspiring as a developer.
+
+Docker: Docker is a platform that allows us to build ,test and deploy applications quickly. It uses containerisation for making application
+deployment and scalability easier. Anyone who knows how the docker simplifies the workflow from development to deployment gets amazed.
+It motivates me as a developer demonstrating how technology may improve software consistency and dependability in various contexts, which in turn
+can increase the productivity of the development process.
+
+There are so many tools and softwares which are trending nowadays but these three tools inspire me in such a way that they are essential
+in day today life of a developer.And mainly all 3 of them are open source.
+ 
+
+
+
+[3]  List top 3 organisations you like to join in your career & why you like these organisations.
+
+Google : organization which is well known for its creative and progressive use of technology is Google. It is a great place to work as a developer
+if ypu want to be involved in cutting edge tech breakthroughs because of its dedication to pushing limits, working on significant projects and also
+encourages a creative and collaborative culture which helps a individual to work efficiently in teams.
+
+Microsoft: Its constant evolution is astounding, and it has a long history of influencing the computing environment. My beliefs are aligned
+with the company's emphasis on diversity and inclusivity as well as its commitment to using technology to address global concerns. It is 
+impressive that Microsoft is dedicated to improving society through programs like accessibility and sustainability.
+
+Tesla: Tesla is notable for its disruptive influence in the energy and automobile industries. My passion in environmental technology is 
+matched by the company's emphasis on clean energy, sustainability, and pushing the envelope in the transportation industry. It's an 
+exciting prospect to work for a firm that wants to transform entire sectors.
+
+In addition to being industry leaders, these companies are renowned for encouraging creativity, diversity, and a feeling of purpose
+among their staff members.
+
+
+
+
+
+
+[4]  How you position yourself in this industry after 2 years.
+
+My goal is to become a best working professional in a certain field—such as software architecture in two years. I envision myself 
+in a leadership position, actively participating in industry events to stay up to date  on developing trends, and leading and 
+mentoring teams. For me, it is essential to interact with the IT community through mentorship and open-source contributions,
+and the foundation of my professional development is ongoing education. In general, I see myself as a vibrant and significant
+ member of my company's community as well as the larger tech sector. 
+
+
+
+
+
+[5] List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+
+I have built 3 projects on my own after learning specific skills in the process of continuous learning.
+
+1) Movie Review system : Developed a web application that allows users to explore movie information and submit reviews for their
+    favorite movies. Utilized React for the frontend, Spring Boot for the backend, and MongoDB for data storage.
+        
+      Key Features:
+        •Dynamic Data: Fetched movie information dynamically via RESTful API calls to a Spring Boot backend.
+        •User Reviews: Enabled users to submit movie reviews, which were securely stored in a MongoDB database.
+        •Responsive UI: Designed a user-friendly and responsive interface using React Bootstrap components.
+        •Review Display: Displayed user-submitted movie reviews, fostering user engagement and discussions.
+        •CORS Handling: Configured Cross-Origin Resource Sharing (CORS) for secure data exchange between the
+         frontend and backend.
+        •State Management: Utilized React hooks to manage application state efficiently.
+        •Database Integration:Integrated MongoDB for efficient data storage and retrieval.
+
+    Tech stack used : React , Axios, Spring boot, MongoDB
+
+2)Department student microservice system : Developed a dynamic microservices system with Spring Cloud for independent department and student
+management. Employed Eureka for seamless service discovery, Config Server for centralized configuration,
+and a secure API Gateway for access control.
+
+    Key Features:
+        •Student Service: Precise student data management, including name, age, position, and department
+           affiliation.
+        •Department Service: Efficient handling of department-related information and student association.
+        •Microservices Integration: Seamless inter-microservice communication via Eureka.
+        •Centralized Configuration: Dynamic updates without interruption through Config Server.
+        •Secure API Gateway: Controlled, secure microservice access with role-based authentication.
+
+    Tech stack used : Spring boot, Java,implemented Microservice architecture using spring cloud
+
+3)Backend cowin project : Designed a strong API framework to mimic the features of Arogyasetu Cowin for a vaccination registration app. 
+The system has administrative capabilities for data analysis in addition to user-centric features for registration, 
+slot administration, and changes. used on MongoDB Atlas to manage data effectively.
+
+    Key Features:
+
+    •User Registration and Authentication:Implemented secure user registration with mandatory fields and enabled 
+    login functionality through a phone number and password.
+    •Vaccine Slot Management: Enables users to view and register for available time slots, dynamically adjusting 
+    availability based on vaccination status and dose completion.
+    •Slot Modifications and Updates:Implemented APIs for users to update or change registered slots until 24 hours
+     prior to the scheduled time.
+    •Admin Dashboard: Developed APIs for admin login using manually created credentials, enabling functionalities 
+    to check total registered users and apply filters by Age/Pincode/Vaccination status.
+    •Vaccine Slot Details:APIs to retrieve detailed information on registered slots for first dose, second dose, and total.
+
+    Technologies Used:
+
+    •Node.js for building scalable and efficient APIs.
+    •MongoDB Atlas for secure data storage and retrieval.
+    •Utilized Express.js for robust API development.
+    •Implemented optimizations for API performance and data validation.
+
